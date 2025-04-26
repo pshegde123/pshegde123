@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradnya Hegde</h1>
 <h3 align="center">A passionate fullstack developer from Atlanta.</h3>
 
-- 🔭 I’m currently working on updating [personal website]([https://github.com/pshegde123/portfolio_cf](https://www.pradnyahegde.com/)
+- 🔭 I’m currently working on updating [personal website](https://www.pradnyahegde.com/)
 
 - 🌱 I’m currently learning **React JS, Next JS**
 
