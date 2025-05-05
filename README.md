@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, Next JS**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://pshegde123.github.io/portfolio_cf/work.html)
+- 👨‍💻 All of my projects are available at [portfolio](https://www.pradnyahegde.com/)
 
 - 💬 Ask me about **javascript and React**
 
