@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradnya Hegde</h1>
-<h3 align="center">A fullstack developer from Atlanta.</h3>
+<h3 align="center">A Fullstack developer (MERN) from Atlanta.</h3>
 
 - 🔭 I’m currently working on updating my [portfolio](https://portfolio25-snowy.vercel.app/)
 
