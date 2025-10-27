@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pradnya Hegde</h1>
 <h3 align="center">A fullstack developer from Atlanta.</h3>
 
-- 🔭 I’m currently working on updating [personal website](https://www.pradnyahegde.com/)
+- 🔭 I’m currently working on updating my [portfolio](https://portfolio25-snowy.vercel.app/)
 
-- 🌱 I’m currently learning **React JS, Next JS**
+- 🌱 I’m currently learning **React JS, Next JS, TypeScript**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://www.pradnyahegde.com/)
+- 👨‍💻 All of my projects are available in my old [portfolio](https://pshegde123.github.io/Portfolio.github.io/#portfolio)
 
 - 💬 Ask me about **javascript and React**
 
