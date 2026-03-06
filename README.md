@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React JS, Next JS, TypeScript**
 
-- 👨‍💻 All of my projects are available in my old [portfolio](https://pshegde123.github.io/portfoliov226/)
-
 - 💬 Ask me about **javascript and React**
 
 - 📫 How to reach me **pradnyahegde@gmail.com**
