@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pradnya Hegde</h1>
 <h3 align="center">A Fullstack developer (MERN) from Atlanta.</h3>
 
-- 🔭 I’m currently working on updating my [portfolio](https://portfolio25-snowy.vercel.app/)
+- 🔭 I’m currently working on updating my [portfolio](https://pshegde123.github.io/portfoliov226/)
 
 - 🌱 I’m currently learning **React JS, Next JS, TypeScript**
 
-- 👨‍💻 All of my projects are available in my old [portfolio](https://pshegde123.github.io/Portfolio.github.io/#portfolio)
+- 👨‍💻 All of my projects are available in my old [portfolio](https://pshegde123.github.io/portfoliov226/)
 
 - 💬 Ask me about **javascript and React**
 
